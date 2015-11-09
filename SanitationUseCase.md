@@ -1,0 +1,4 @@
+  1. Sanitation searches for address. If a citation already exists on that address that occurred within the last three months, sanitation will add a new issue to that case.
+  1. If a citation does not exist, Sanitation will add a new case for that address. **Sanitation will immediately close that case.**
+  1. When a new citation is added to that address within the same three month time span, Sanitation will add it as a new issue to the existing case. **Sanitation must re-open the case to add a new issue**.
+  1. Once three issues have been added to one case for that address, Sanitation will reassign that case to HAND.
